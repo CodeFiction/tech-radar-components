@@ -1,4 +1,5 @@
 # Wwwroot
+[![Build Status](https://semaphoreci.com/api/v1/codefiction/tech-radar-components/branches/master/badge.svg)](https://semaphoreci.com/codefiction/tech-radar-components)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
